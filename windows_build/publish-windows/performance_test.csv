@@ -1,0 +1,6 @@
+CPU Test,137 ms,CPU-intensive calculations
+
+Memory Test,500 MB,500MB memory allocation
+
+Write and Read 100 MB,Disk Write Time: 18 ms,Disk Read Time: 18 ms
+
